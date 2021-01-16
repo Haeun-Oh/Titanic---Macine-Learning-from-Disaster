@@ -1,2 +1,2 @@
-# Titanic---Macine-Learning-from-Disaster
+# Titanic-Macine-Learning-from-Disaster
 :ship:
