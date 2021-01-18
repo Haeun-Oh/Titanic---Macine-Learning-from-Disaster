@@ -1,2 +1,5 @@
 # Titanic-Macine Learning from Disaster
-:ship:
+:ship: from kaggle
+
+### first_solution.py
+drop cabin
