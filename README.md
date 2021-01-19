@@ -10,7 +10,10 @@ using RandomForestClassifier
 
 Ledaerboard score: 0.77511
 
+
 ### first_solution.ipynb
-drop cabin
+The nan value was filled based on Pcalss.
+
+Leaderboard score: 0.77033
 
 
