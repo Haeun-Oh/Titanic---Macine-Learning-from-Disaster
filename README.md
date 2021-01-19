@@ -4,6 +4,7 @@
 
 ### 🔨 Download `train.csv` and `test.csv` from kaggle
 
+💯 Score is the percentage of passengers participant correctly predicts.
 
 ### Geting started with Titanic.ipynb
 using Random Forest Classifier model
