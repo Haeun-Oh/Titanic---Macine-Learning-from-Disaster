@@ -12,7 +12,7 @@ using Random Forest Classifier model
 Ledaerboard score: 0.77511
 
 
-### first_solution.ipynb
+### TEAMLAB_solution.ipynb
 The nan value was filled based on Pcalss.
 
 using Logistic Regression model
