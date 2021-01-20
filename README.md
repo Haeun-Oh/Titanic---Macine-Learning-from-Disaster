@@ -1,4 +1,4 @@
-# Titanic-Macine Learning from Disaster
+# Titanic-Machine Learning from Disaster
 :ship: 
 
 
@@ -9,7 +9,7 @@
 ### Geting started with Titanic.ipynb
 using Random Forest Classifier model
 
-Ledaerboard score: 0.77511
+Leaderboard score: 0.77511
 
 
 ### TEAMLAB_solution.ipynb
