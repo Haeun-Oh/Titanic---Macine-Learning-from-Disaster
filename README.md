@@ -1,6 +1,4 @@
-# Titanic-Machine Learning from Disaster
-:ship: 
-=========================================
+# :ship: Titanic-Machine Learning from Disaster
 
 ### 🔨 Download `train.csv` and `test.csv` from kaggle
 
