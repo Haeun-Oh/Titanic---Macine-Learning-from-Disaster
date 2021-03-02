@@ -4,13 +4,13 @@
 
 💯 Score is the percentage of passengers participant correctly predicts.
 
-### Geting started with Titanic.ipynb
+### * Geting started with Titanic.ipynb
 using Random Forest Classifier model
 
 Leaderboard score: 0.77511
 
 
-### TEAMLAB_solution.ipynb
+### * TEAMLAB_solution.ipynb
 The nan value was filled based on Pcalss.
 
 using Logistic Regression model
